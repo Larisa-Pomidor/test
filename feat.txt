@@ -1,1 +1,2 @@
 Feature itself
+Feature 2
